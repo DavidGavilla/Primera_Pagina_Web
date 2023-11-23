@@ -1,0 +1,107 @@
+footer{ 
+    
+    bottom: 0;  /*Anclo el footer al fondo de la pagina*/
+
+}
+
+
+
+#titulo{
+
+    top: 0px;                   /*Anclo todo el texto con ID titulo a la parte superior de la pagina*/
+    margin-bottom: 50px;        /*Dejo 50px de margen con el siguiente elemento*/
+}
+
+#image{
+
+    float: left;                /*Hago un float de la imagen a la izquierda para poner contenido a su derecha*/
+    margin-right: 20px;         /*Dejo 20px de margen a su derecha
+    
+}
+
+.links {
+
+    margin-top: 50px;       /*Dejo 50px de margen desde arriba para centrar los links con la imagen verticalmente*/
+    float: right;           /*Float a la derecha para colocar los links a la derecha de la imagen*/
+    margin-right: 2100px;   /*Dejo 2100px de margen a la derecha para poner los links al lado de la imagen*/
+
+}
+
+
+
+main{
+
+    margin-top: 50px;   /*Dejo 50px de margen entre un texto y otro (Verticalmente*/
+
+}
+
+#link1:visited{
+
+    color: purple;  /*Cambio el color de links despues de ser visitados a purpura*/
+
+}
+
+#link2:visited{
+
+    color: purple;  /*Cambio el color de links despues de ser visitados a purpura*/
+
+}
+
+#link3:visited{
+
+    color: purple;  /*Cambio el color de links despues de ser visitados a purpura*/
+
+}
+
+#link1:hover{
+
+    color: red;     /*Cambio el color de los links cuando haces hover a rojo*/
+
+}
+
+#link2:hover{
+
+    color: red; /*Cambio el color de los links cuando haces hover a rojo*/
+
+}
+
+#link3:hover{
+
+    color: red;     /*Cambio el color de los links cuando haces hover a rojo*/
+
+}
+
+.tableLines {
+
+
+    background-color: lightgrey;    /*Cambio el color de las lineas de la tabla a lightGrey*/
+    
+
+}
+
+.tablefirstline {
+
+    background-color: grey;     /*Cambio el color de la primera linea de la tabla a Grey*/
+    
+
+}
+
+
+.video{
+
+    width: 400px;   /*Hago que los videos sean de 400px de amplio*/
+
+}
+.TextAboveImage {
+
+    margin-left: 150px;     /*Centro el texto encima de la imagen con el video*/
+    width: 100px;       /*Hago que tenga una medida concreta para centrarlo con el video*/
+}
+
+
+.audios {
+
+    
+    margin-top: 10px;   /*Dejo un margen entre los audios y el texto*/
+ 
+}
